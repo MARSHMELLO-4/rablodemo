@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "176251836848",
+    "project_id": "rablodemo-ce24a",
+    "storage_bucket": "rablodemo-ce24a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176251836848:android:266d369beca68d8db45e75",
+        "android_client_info": {
+          "package_name": "com.example.rablo_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxodGjkgmy3VYgf0JF7U6_u56VIgJKx38"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
